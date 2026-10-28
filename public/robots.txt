@@ -1,0 +1,6 @@
+# Robots.txt for Shorif Homeo Hall (শরীফ হোমিও হল)
+User-agent: *
+Allow: /
+
+# Sitemap for Google Search Console & Search Crawlers
+Sitemap: https://ais-pre-bmoxxhptzjnwmxjoq2m2k3-989315888853.asia-east1.run.app/sitemap.xml
